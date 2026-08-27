@@ -1,25 +1,25 @@
-<h1 align='center'>Welcome to Octavian's profile!</h1>
-<h2 align='center'>Quick trivia</h2>
+<h1 align='center'>Hey, I'm Octavian 👋</h1>
+<h3 align='center'>Full-Stack Developer · MSc Student in Economic Informatics</h3>
+
+<p align='center'>
+Building across web, mobile, and beyond — currently open to Software Engineering internships.
+</p>
+
+<h2>Quick trivia</h2>
 <ul>
-  <li> You can also call me Tavi</li>
-  <li>Masters Student at the Romanian-American University</li>
-  <li> Passionate about economics and business, with an interest in full-stack web-development and design </li>  
-  <li>Actively pursuing web-development and learning web-related technologies</li>
-  <li>Working freelance on projects that provide value to my customers</li>  
-  <li>Admirer of Tatsuki Fujimoto.</li>
+  <li>🎓 MSc student at the Romanian-American University, Erasmus+ exchange completed at ISEN YNCREA Méditerranée (Toulon, France)</li>
+  <li>💻 Full-stack developer — TypeScript, Vue.js/Nuxt.js, React Native, Supabase</li>
+  <li>🔭 Currently building <a href="https://github.com/vojtechsanda/bad-buy">BadBuy</a>, a mindful-spending mobile app (React Native/Expo)</li>
+  <li>🌱 Currently learning React.js and Next.js</li>
+  <li>💼 Available for freelance web development work</li>
+  <li>📫 DM me here on GitHub or on Instagram/LinkedIn</li>
+  <li>🎨 Admirer of Tatsuki Fujimoto</li>
 </ul>
-<h4>If you wish to speak with me, please give me a DM on Instagram, or other social medias.</h4>
-<!--
-**minotavi11/minotavi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Featured Projects</h2>
+<ul>
+  <li>🏥 <a href="https://github.com/minotavi11/cmi_webapp">Medical Patient & Diagnosis Management Platform</a> — Nuxt.js · Vue.js · Supabase</li>
+  <li>🛍️ <a href="https://github.com/vojtechsanda/bad-buy">BadBuy</a> — React Native · Expo · Supabase (Team of 3)</li>
+  <li>🏰 <a href="https://github.com/EmaJasekova/disneydex">DisneyDex</a> — Kotlin · Jetpack Compose · Firebase</li>
+  <li>🎮 <a href="https://github.com/minotavi11/Project--NecoPlatformer">NecoPlatformer</a> — Java, custom 2D game engine built from scratch</li>
+</ul>
