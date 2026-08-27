@@ -9,11 +9,10 @@ Building across web, mobile, and beyond — currently open to Software Engineeri
 <ul>
   <li>🎓 MSc student at the Romanian-American University, Erasmus+ exchange completed at ISEN YNCREA Méditerranée (Toulon, France)</li>
   <li>💻 Full-stack developer — TypeScript, Vue.js/Nuxt.js, React Native, Supabase</li>
-  <li>🔭 Currently building <a href="https://github.com/vojtechsanda/bad-buy">BadBuy</a>, a mindful-spending mobile app (React Native/Expo)</li>
-  <li>🌱 Currently learning React.js and Next.js</li>
   <li>💼 Available for freelance web development work</li>
+  <li>🌱 Currently working on my masters project, and learning Spring and Java, deepening knowledge on backend and cloud services</li>
   <li>📫 DM me here on GitHub or on Instagram/LinkedIn</li>
-  <li>🎨 Admirer of Tatsuki Fujimoto</li>
+  <li>🎨 Admirer of French artists such as Monet and Renoir</li>
 </ul>
 
 <h2>Featured Projects</h2>
