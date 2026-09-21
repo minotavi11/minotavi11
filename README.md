@@ -1,15 +1,17 @@
 <h1 align='center'>Hey, I'm Octavian 👋</h1>
-<h3 align='center'>Full-Stack Developer · MSc Student in Economic Informatics</h3>
+<h3 align='center'> Aspiring Full-Stack Developer · MSc Student in Economic Informatics</h3>
 
 <p align='center'>
-Building across web, mobile, and beyond — currently open to Software Engineering internships.
+Building across web, mobile, and beyond — aiming to master Software Architecture.
 </p>
 
 <h2>Quick trivia</h2>
 <ul>
   <li>🎓 MSc student at the Romanian-American University, Erasmus+ exchange completed at ISEN YNCREA Méditerranée (Toulon, France)</li>
-  <li>💻 Full-stack developer — TypeScript, Vue.js/Nuxt.js, React Native, Supabase</li>
+  <li>💻 Primarily mobile developer and web developer - Vue, React, Supabase, Expo React Native, Kotlin.</li>
   <li>💼 Available for freelance web development work</li>
+  <li>💻 Aiming to become a Software Architect, actively learning about software architecture and backend.</li>
+  <li>💻 Will focus mainly on Java and Typescript as programming languages. </li>  
   <li>🌱 Currently working on my masters project, and learning Spring and Java, deepening knowledge on backend and cloud services</li>
   <li>📫 DM me here on GitHub or on Instagram/LinkedIn</li>
   <li>🎨 Admirer of French artists such as Monet and Renoir</li>
