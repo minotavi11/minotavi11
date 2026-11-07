@@ -1,6 +1,4 @@
-<h1 align="center">Hey, I'm Octavian 👋</h1>
-
-<h3 align="center">Aspiring Software Architect · MSc Student in Economic Informatics (2nd year) </h3>
+<h3 align="center"> Octavian Mihaila · MSc Student in Economic Informatics (2nd year) </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20-Mobile%20And%20Webdev-2b2b2b?style=for-the-badge&labelColor=c0392b" alt="Mobile and Webdev" />
