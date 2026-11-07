@@ -1,7 +1,7 @@
 <h1 align='center'>Hey, I'm Octavian 👋</h1>
 <h3 align='center'> Aspiring Full-Stack Developer · MSc Student in Economic Informatics</h3>
 
-![git-koi](https://github.com/minotavi11/minotavi11/raw/output/git-koi.svg)
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 <h2>Quick trivia</h2>
 <ul>
