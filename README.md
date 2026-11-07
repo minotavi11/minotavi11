@@ -17,8 +17,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/minotavi"><img src="https://img.shields.io/badge/Instagram-2b2b2b?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/
-www.linkedin.com/in/nicolae-octavian-mihaila-873195303"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nicolae-octavian-mihaila-873195303"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
